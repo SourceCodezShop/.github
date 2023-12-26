@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am currently working on new projects <br>> I am learning python javascript reactjs<br>> Source Codez provide free source code<br>> Source Codez present by Arbotix Development<br>> Owner :- HJ GAMING (HARSHAL JARIWALA)
+> I am currently working on new projects <br> I am learning python javascript reactjs<br> Source Codez provide free source code<br> Source Codez present by Arbotix Development<br> Owner :- HJ GAMING (HARSHAL JARIWALA)
 
 
 ## 🌐 Socials:
